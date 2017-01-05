@@ -1,3 +1,5 @@
+Formatierte Vorschau einer README.me Datei mit [Atom](https://atom.io/) (Ctrl+Shift+M)
+
 Markdown Cheatsheet
 ===================
 
